@@ -1,0 +1,12 @@
+@font-face {font-family: "Gumela"; src: url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.eot"); src: url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.woff") format("woff"), url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/00561b492d88a5287a5def1e83a34882.svg#Gumela") format("svg"); }
+*{
+  font-family:'Gumela';
+  font-weight: normal;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+ box-sizing: border-box;
+}
+
+

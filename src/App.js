@@ -1,7 +1,11 @@
+import Navbar from "./components/navbar/Navbar";
+import './App.css'
+import Intro from "./components/intro/Intro";
 function App() {
   return (
     <div className="App">
-      Subscribe ZainKeepsCode
+      <Navbar/>
+      <Intro/>
     </div>
   );
 }
